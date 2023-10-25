@@ -16,6 +16,10 @@ a:hover {
     font-size: 9pt;
 }
 
+.text {
+    font-size: 14pt;
+}
+
 .tagsep {
     padding: 4px;
 }
