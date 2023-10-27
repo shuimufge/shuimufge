@@ -12,7 +12,7 @@ const highlightcolor = "#111";
 // const highlight = "#111";
 
 // Body properties
-const bodyfontweight = 300;
+const bodyfontweight = 400;
 const bodyfontsize = "12pt";
 const backgroundcolor = "#fff";
 
