@@ -83,6 +83,7 @@ $("body").css("color", basecolor);
 $("body").css("font-weight", bodyfontweight);
 $("body").css("font-size", bodyfontsize);
 $("body").css("background-color", backgroundcolor);
+$("body").css("padding-bottom", "30px");
 
 $("a").css("color", acolor);
 $("a").css("text-decoration", adecoration);
