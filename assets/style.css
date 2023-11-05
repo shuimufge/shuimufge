@@ -11,6 +11,10 @@ a:hover {
     /* color: #444; */
 }
 
+div {
+    text-align:justify;  
+    text-justify:inter-character;}
+
 
 .noter {
     font-size: 9pt;
